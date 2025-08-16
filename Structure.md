@@ -1,5 +1,4 @@
-
-
+``` 
 project-name/
 ├── app/
 │   ├── __init__.py
@@ -59,3 +58,4 @@ project-name/
 ├── requirements-dev.txt       # Development dependencies
 ├── README.md
 └── pyproject.toml            # Project configuration (if using Poetry)
+```
